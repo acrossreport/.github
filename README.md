@@ -141,4 +141,6 @@ See the LICENSE file for details.
 
 ACR Architecture
 Hisanobu Araki
+Notes on the background and philosophy of ACR are also available here:  
+https://github.com/HisaAraki/acr-hanote
 
