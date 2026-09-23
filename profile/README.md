@@ -26,8 +26,6 @@ ACR guarantees pixel-perfect output across screen and print, without relying on 
 | Name | Description | Link |
 |---|---|---|
 | ACR Viewer for VSCode | Print preview and PDF export in VS Code | [Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode) / [Open VSX](https://open-vsx.org/extension/across-systems/acr-viewer-vscode) |
-| ACR Report Renderer | Chrome extension for report rendering | Chrome Web Store |
-| ACR Receipt Renderer | Chrome extension for receipt/label rendering | Chrome Web Store |
 | acr-spec | Template specification | [GitHub](https://github.com/acrossreport/acr-spec) |
 
 ---
