@@ -21,9 +21,14 @@ ACR guarantees pixel-perfect output across screen and print, without relying on 
 
 ## 📦 Projects
 
-- acr-cli — CLI rendering engine
-- acr-spec — Template specification
-- rpx2json — Converter tool
+<!-- 製品を追加するときは、この表に1行足す。形式: | 名前 | 説明 | リンク | -->
+
+| Name | Description | Link |
+|---|---|---|
+| ACR Viewer for VSCode | Print preview and PDF export in VS Code | [Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode) / [Open VSX](https://open-vsx.org/extension/across-systems/acr-viewer-vscode) |
+| ACR Report Renderer | Chrome extension for report rendering | Chrome Web Store |
+| ACR Receipt Renderer | Chrome extension for receipt/label rendering | Chrome Web Store |
+| acr-spec | Template specification | [GitHub](https://github.com/acrossreport/acr-spec) |
 
 ---
 
@@ -35,9 +40,11 @@ Template → Layout Engine → Rendering Engine → Output
 
 ## 📄 Output Formats
 
+<!-- 出力形式を追加するときは、ここに1行足す -->
+
 - PDF
 - PNG / Image
-- Thermal printer commands (planned)
+- Receipt/label printer commands (ESC/POS, StarPRNT, ZPL, SBPL, TPCL, TSPL)
 - Screen rendering
 - Future device-specific renderers
 
@@ -45,8 +52,11 @@ Template → Layout Engine → Rendering Engine → Output
 
 ## 🌍 Links
 
+<!-- リンクを追加するときは、ここに1行足す -->
+
 - https://acrossreport.com
 - https://zenn.dev/maskedridersys/scraps/72fe431a892341
+- https://qiita.com/maskedridersystem
 
 ---
 
