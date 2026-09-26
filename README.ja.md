@@ -29,6 +29,7 @@ ACR は、プリンタドライバに頼ることなく、画面表示と印刷�
 |---|---|---|
 | ACR Viewer for VSCode | VS Code 上での印刷プレビューと PDF 出力 | [Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode) / [Open VSX](https://open-vsx.org/extension/across-systems/acr-viewer-vscode) |
 | ACR Migrate | ActiveReports RPX / Microsoft RDL を ACR 形式に変換 | [GitHub](https://github.com/acrossreport/acr-migrate) |
+| ACR PNG2JSON | 紙の帳票をスキャンした PNG を、ACR Free Canvas 用の JSON に変換 | [GitHub](https://github.com/acrossreport/acrpng2json) |
 | acr-spec | テンプレート仕様 | [GitHub](https://github.com/acrossreport/acr-spec) |
 
 ---
