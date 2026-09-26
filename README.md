@@ -1,13 +1,13 @@
 
 # Across Report Renderer (ACR)
 
+🇯🇵 [日本語](README.ja.md) | 🇫🇷 [Français](README.fr.md)
+
 **Render once. Output everywhere.**
 
 ACR is a printer-independent, cross-platform document rendering engine.
 
 ACR guarantees pixel-perfect output across screen and print, without relying on printer drivers.
-
-🇯🇵 [日本語](README.ja.md) | 🇫🇷 [Français](README.fr.md)
 
 ---
 
