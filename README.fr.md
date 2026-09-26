@@ -29,6 +29,7 @@ ACR garantit un rendu fidèle au pixel près, à l'écran comme à l'impression,
 |---|---|---|
 | ACR Viewer for VSCode | Aperçu avant impression et export PDF dans VS Code | [Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode) / [Open VSX](https://open-vsx.org/extension/across-systems/acr-viewer-vscode) |
 | ACR Migrate | Convertit ActiveReports RPX / Microsoft RDL au format ACR | [GitHub](https://github.com/acrossreport/acr-migrate) |
+| ACR PNG2JSON | Convertit un rapport papier numérisé (PNG) en JSON pour ACR Free Canvas | [GitHub](https://github.com/acrossreport/acrpng2json) |
 | acr-spec | Spécification du gabarit | [GitHub](https://github.com/acrossreport/acr-spec) |
 
 ---
