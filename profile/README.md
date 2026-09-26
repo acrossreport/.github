@@ -26,8 +26,8 @@ ACR guarantees pixel-perfect output across screen and print, without relying on 
 | Name | Description | Link |
 |---|---|---|
 | ACR Viewer for VSCode | Print preview and PDF export in VS Code | [Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode) / [Open VSX](https://open-vsx.org/extension/across-systems/acr-viewer-vscode) |
+| ACR Migrate | Convert ActiveReports RPX / Microsoft RDL to ACR format | [GitHub](https://github.com/acrossreport/acr-migrate) |
 | acr-spec | Template specification | [GitHub](https://github.com/acrossreport/acr-spec) |
-
 ---
 
 ## 🔧 Architecture
