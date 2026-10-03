@@ -23,13 +23,16 @@ ACR garantit un rendu fidèle au pixel près, à l'écran comme à l'impression,
 
 ## 📦 Produits
 
-<!-- Pour ajouter un produit, ajoutez une ligne à ce tableau. Format : | Nom | Description | Lien | -->
+<!-- 製品を追加するときは、この表に1行足す。形式: | 名前 | 説明 | リンク | -->
 
 | Nom | Description | Lien |
 |---|---|---|
 | ACR Viewer for VSCode | Aperçu avant impression et export PDF dans VS Code | [Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode) / [Open VSX](https://open-vsx.org/extension/across-systems/acr-viewer-vscode) |
+| ACR Designer | Outil de conception de rapports (bandes / Free Canvas, connexions aux bases de données, sortie PDF/PNG/HTML) | [GitHub](https://github.com/acrossreport/acr-designer) |
+| ACR Generator | Charge la sortie d'acr-png2json, ajoute des sections et enregistre au format JSON ACR | [GitHub](https://github.com/acrossreport/acr-generator) |
+| ACR Viewer | Application résidente d'impression par dossier surveillé / HTTP et de sortie PDF/PNG | [GitHub](https://github.com/acrossreport/acr-viewer) |
 | ACR Migrate | Convertit ActiveReports RPX / Microsoft RDL au format ACR | [GitHub](https://github.com/acrossreport/acr-migrate) |
-| ACR PNG2JSON | Convertit un rapport papier numérisé (PNG) en JSON pour ACR Free Canvas | [GitHub](https://github.com/acrossreport/acrpng2json) |
+| ACR PNG2JSON | Convertit un rapport papier numérisé (PNG) en JSON pour ACR Free Canvas | [GitHub](https://github.com/acrossreport/acr-png2json) |
 | acr-spec | Spécification du gabarit | [GitHub](https://github.com/acrossreport/acr-spec) |
 
 ---
@@ -42,7 +45,7 @@ Gabarit → Moteur de mise en page → Moteur de rendu → Sortie
 
 ## 📄 Formats de sortie
 
-<!-- Pour ajouter un format de sortie, ajoutez une ligne ici -->
+<!-- 出力形式を追加するときは、ここに1行足す -->
 
 - PDF
 - PNG / Image
@@ -54,7 +57,7 @@ Gabarit → Moteur de mise en page → Moteur de rendu → Sortie
 
 ## 🌍 Liens
 
-<!-- Pour ajouter un lien, ajoutez-le ici -->
+<!-- リンクを追加するときは、ここに1行足す -->
 
 - https://acrossreport.com
 - https://zenn.dev/maskedridersys/scraps/72fe431a892341
