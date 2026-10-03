@@ -28,8 +28,11 @@ ACR は、プリンタドライバに頼ることなく、画面表示と印刷�
 | 名前 | 説明 | リンク |
 |---|---|---|
 | ACR Viewer for VSCode | VS Code 上での印刷プレビューと PDF 出力 | [Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode) / [Open VSX](https://open-vsx.org/extension/across-systems/acr-viewer-vscode) |
+| ACR Designer | 帳票デザインツール(バンド / Free Canvas、DB 接続、PDF・PNG・HTML 出力) | [GitHub](https://github.com/acrossreport/acr-designer) |
+| ACR Generator | acr-png2json の出力を読み込み、セクションを付けて ACR JSON として保存 | [GitHub](https://github.com/acrossreport/acr-generator) |
+| ACR Viewer | 監視フォルダ / HTTP で受け取ったデータの印字と PDF・PNG 出力を行う常駐アプリ | [GitHub](https://github.com/acrossreport/acr-viewer) |
 | ACR Migrate | ActiveReports RPX / Microsoft RDL を ACR 形式に変換 | [GitHub](https://github.com/acrossreport/acr-migrate) |
-| ACR PNG2JSON | 紙の帳票をスキャンした PNG を、ACR Free Canvas 用の JSON に変換 | [GitHub](https://github.com/acrossreport/acrpng2json) |
+| ACR PNG2JSON | 紙の帳票をスキャンした PNG を、ACR Free Canvas 用の JSON に変換 | [GitHub](https://github.com/acrossreport/acr-png2json) |
 | acr-spec | テンプレート仕様 | [GitHub](https://github.com/acrossreport/acr-spec) |
 
 ---
