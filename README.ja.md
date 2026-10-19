@@ -27,6 +27,7 @@ ACR は、プリンタドライバに頼ることなく、画面表示と印刷�
 
 | 名前 | 説明 | リンク |
 |---|---|---|
+| ACR Tech Articles | ACR に関する技術記事（日本語/英語） | [GitHub](https://github.com/acrossreport/acr-tech-articles) |
 | ACR CLI | CLI ベースの描画エンジン — プリンタドライバや GUI なしで PDF・PNG を生成(macOS 版はコード署名済み) | [GitHub](https://github.com/acrossreport/acr-cli) |
 | acr-node | Node.js / Electron から ACR テンプレートを PDF・PNG に描画(napi-rs ネイティブアドオン) | [npm](https://www.npmjs.com/package/@acrossreport/acr-node) / [GitHub](https://github.com/acrossreport/acr-node) |
 | ACR Viewer for VSCode | VS Code 上での印刷プレビューと PDF 出力 | [Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode) / [Open VSX](https://open-vsx.org/extension/across-systems/acr-viewer-vscode) |

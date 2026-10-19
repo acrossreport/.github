@@ -28,6 +28,7 @@ ACR guarantees pixel-perfect output across screen and print, without relying on 
 
 | Name | Description | Link |
 |---|---|---|
+| ACR Tech Articles | Technical articles about ACR (JA/EN) | [GitHub](https://github.com/acrossreport/acr-tech-articles) |
 | ACR CLI | Command-line rendering engine — generates PDF/PNG with no printer driver or GUI (macOS build is code-signed) | [GitHub](https://github.com/acrossreport/acr-cli) |
 | acr-node | Render ACR templates to PDF/PNG from Node.js and Electron (napi-rs native addon) | [npm](https://www.npmjs.com/package/@acrossreport/acr-node) / [GitHub](https://github.com/acrossreport/acr-node) |
 | ACR Viewer for VSCode | Print preview and PDF export in VS Code | [Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode) / [Open VSX](https://open-vsx.org/extension/across-systems/acr-viewer-vscode) |
