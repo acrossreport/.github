@@ -29,15 +29,15 @@ ACR guarantees pixel-perfect output across screen and print, without relying on 
 | Name | Description | Link |
 |---|---|---|
 | ACR Tech Articles | Technical articles about ACR (JA/EN) | [GitHub](https://github.com/acrossreport/acr-tech-articles) |
-| ACR CLI | Command-line rendering engine — generates PDF/PNG with no printer driver or GUI (macOS build is code-signed) | [GitHub](https://github.com/acrossreport/acr-cli) |
-| acr-node | Render ACR templates to PDF/PNG from Node.js and Electron (napi-rs native addon) | [npm](https://www.npmjs.com/package/@acrossreport/acr-node) / [GitHub](https://github.com/acrossreport/acr-node) |
 | ACR Viewer for VSCode | Print preview and PDF export in VS Code | [Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode) / [Open VSX](https://open-vsx.org/extension/across-systems/acr-viewer-vscode) |
+| ACR CLI | Command-line rendering engine — generates PDF/PNG with no printer driver or GUI (macOS build is code-signed) | [GitHub](https://github.com/acrossreport/acr-cli) |
+| ACR Node | Render ACR templates to PDF/PNG from Node.js and Electron (napi-rs native addon) | [npm](https://www.npmjs.com/package/@acrossreport/acr-node) / [GitHub](https://github.com/acrossreport/acr-node) |
 | ACR Designer | Report design tool (bands/Free Canvas, DB connections, PDF/PNG/HTML output) | [GitHub](https://github.com/acrossreport/acr-designer) |
 | ACR Generator | Load acr-png2json output, add sections, and save as ACR JSON | [GitHub](https://github.com/acrossreport/acr-generator) |
 | ACR Viewer | Watch-folder / HTTP printing and PDF/PNG output daemon (macOS build is code-signed) | [GitHub](https://github.com/acrossreport/acr-viewer) |
 | ACR Migrate | Convert ActiveReports RPX / Microsoft RDL to ACR format | [GitHub](https://github.com/acrossreport/acr-migrate) |
 | ACR PNG2JSON | Convert scanned paper reports (PNG) into ACR Free Canvas JSON | [GitHub](https://github.com/acrossreport/acr-png2json) |
-| acr-spec | Template specification | [GitHub](https://github.com/acrossreport/acr-spec) |
+| ACR Spec | Template specification | [GitHub](https://github.com/acrossreport/acr-spec) |
 | ACR Libs Samples | Minimal samples embedding the ACR native library from C#/VB.NET/Python/Java | [GitHub](https://github.com/acrossreport/acr-libs-samples) |
 | ACR Data Samples | Sample templates/data to try ACR right away | [GitHub](https://github.com/acrossreport/acr-data-samples) |
 
