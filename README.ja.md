@@ -27,13 +27,17 @@ ACR は、プリンタドライバに頼ることなく、画面表示と印刷�
 
 | 名前 | 説明 | リンク |
 |---|---|---|
+| ACR CLI | CLI ベースの描画エンジン — プリンタドライバや GUI なしで PDF・PNG を生成(macOS 版はコード署名済み) | [GitHub](https://github.com/acrossreport/acr-cli) |
+| acr-node | Node.js / Electron から ACR テンプレートを PDF・PNG に描画(napi-rs ネイティブアドオン) | [npm](https://www.npmjs.com/package/@acrossreport/acr-node) / [GitHub](https://github.com/acrossreport/acr-node) |
 | ACR Viewer for VSCode | VS Code 上での印刷プレビューと PDF 出力 | [Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode) / [Open VSX](https://open-vsx.org/extension/across-systems/acr-viewer-vscode) |
 | ACR Designer | 帳票デザインツール(バンド / Free Canvas、DB 接続、PDF・PNG・HTML 出力) | [GitHub](https://github.com/acrossreport/acr-designer) |
 | ACR Generator | acr-png2json の出力を読み込み、セクションを付けて ACR JSON として保存 | [GitHub](https://github.com/acrossreport/acr-generator) |
-| ACR Viewer | 監視フォルダ / HTTP で受け取ったデータの印字と PDF・PNG 出力を行う常駐アプリ | [GitHub](https://github.com/acrossreport/acr-viewer) |
+| ACR Viewer | 監視フォルダ / HTTP で受け取ったデータの印字と PDF・PNG 出力を行う常駐アプリ(macOS 版はコード署名済み) | [GitHub](https://github.com/acrossreport/acr-viewer) |
 | ACR Migrate | ActiveReports RPX / Microsoft RDL を ACR 形式に変換 | [GitHub](https://github.com/acrossreport/acr-migrate) |
 | ACR PNG2JSON | 紙の帳票をスキャンした PNG を、ACR Free Canvas 用の JSON に変換 | [GitHub](https://github.com/acrossreport/acr-png2json) |
 | acr-spec | テンプレート仕様 | [GitHub](https://github.com/acrossreport/acr-spec) |
+| ACR Libs Samples | C# / VB.NET / Python / Java から ACR ネイティブライブラリを呼び出す最小サンプル | [GitHub](https://github.com/acrossreport/acr-libs-samples) |
+| ACR Data Samples | すぐに試せるサンプルテンプレート・データ | [GitHub](https://github.com/acrossreport/acr-data-samples) |
 
 ---
 
@@ -52,6 +56,15 @@ ACR は、プリンタドライバに頼ることなく、画面表示と印刷�
 - レシート・ラベルプリンタ向けコマンド(ESC/POS、StarPRNT、ZPL、SBPL、TPCL、TSPL)
 - 画面表示
 - 今後の機器別レンダラー
+
+---
+
+## 📜 ライセンスとサポート
+
+- 各プロジェクトの基本機能は無償でご利用いただけます。
+- サポートが必要な場合は、別途ご相談ください。
+- ライセンスキー(メールアドレス1つにつき1キー)で、PC 3台まで登録できます。それ以上必要な場合もご相談ください。
+- 故障などで端末を入れ替える場合は、メールをいただければ再登録・復旧対応いたします。
 
 ---
 
