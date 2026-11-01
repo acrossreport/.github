@@ -28,6 +28,7 @@ ACR guarantees pixel-perfect output across screen and print, without relying on 
 
 | Name | Description | Link |
 |---|---|---|
+| BarBridge | GS1 Sunrise 2027-compliant 1D/2D barcode pair generator — released | [GitHub](https://github.com/acrossreport/barbridge) |
 | ACR Tech Articles | Technical articles about ACR (JA/EN) | [GitHub](https://github.com/acrossreport/acr-tech-articles) |
 | ACR Viewer for VSCode | Print preview and PDF export in VS Code | [Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode) / [Open VSX](https://open-vsx.org/extension/across-systems/acr-viewer-vscode) |
 | ACR CLI | Command-line rendering engine — generates PDF/PNG with no printer driver or GUI (macOS build is code-signed) | [GitHub](https://github.com/acrossreport/acr-cli) |

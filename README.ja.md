@@ -27,6 +27,7 @@ ACR は、プリンタドライバに頼ることなく、画面表示と印刷�
 
 | 名前 | 説明 | リンク |
 |---|---|---|
+| BarBridge | GS1 Sunrise 2027 対応の 1D/2D バーコードペア生成ライブラリ — リリース済み | [GitHub](https://github.com/acrossreport/barbridge) |
 | ACR Tech Articles | ACR に関する技術記事（日本語/英語） | [GitHub](https://github.com/acrossreport/acr-tech-articles) |
 | ACR Viewer for VSCode | VS Code 上での印刷プレビューと PDF 出力 | [Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode) / [Open VSX](https://open-vsx.org/extension/across-systems/acr-viewer-vscode) |
 | ACR CLI | CLI ベースの描画エンジン — プリンタドライバや GUI なしで PDF・PNG を生成(macOS 版はコード署名済み) | [GitHub](https://github.com/acrossreport/acr-cli) |
