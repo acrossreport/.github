@@ -65,8 +65,6 @@ Gabarit → Moteur de mise en page → Moteur de rendu → Sortie
 
 - L'utilisation de base de ces projets est gratuite.
 - Un support est disponible séparément — contactez-nous pour en discuter.
-- Une clé de licence (liée à une adresse e-mail) permet d'activer jusqu'à 3 machines. Besoin de plus ? Contactez-nous.
-- En cas de remplacement de machine ou de panne, envoyez-nous un e-mail et nous rétablirons votre enregistrement.
 
 ---
 

@@ -69,8 +69,6 @@ Template → Layout Engine → Rendering Engine → Output
 
 - Basic use of these projects is free.
 - Paid support is available separately — please contact us to discuss.
-- A license key (tied to one email address) can activate up to 3 machines. Need more? Let's talk.
-- Replacing a machine, or recovering from a failure? Email us and we'll restore your registration.
 
 ---
 
